@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel&family=Edu+TAS+Beginner:wght@400;700&family=Gentium+Book+Plus&family=Lacquer&family=Noto+Color+Emoji&family=Open+Sans&family=Roboto&display=swap");
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  background-color: #0766ad;
+  /* border-bottom: thick double rgb(255, 0, 200);
+    border-top: thick double yellow; */
+}
+.title {
+  font-family: "Cinzel";
+}
+.left {
+  margin-left: 40px;
+  font-family: "Cinzel";
+}
+.right {
+  margin-right: 60px;
+  font-family: "Cinzel";
+}
+
+.block {
+  text-align: center;
+  line-height: 15px;
+  font-family: "Cinzel";
+}

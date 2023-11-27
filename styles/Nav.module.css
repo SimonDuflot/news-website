@@ -1,0 +1,17 @@
+.navigation {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid grey;
+}
+
+.navigation input {
+  margin-left: 50px;
+  border-left: 1px solid black;
+}
+
+.navigation a {
+  text-decoration: none;
+}
